@@ -1,1 +1,1 @@
-pysha3==0.3
+eth-utils==1.7.0
